@@ -1,1 +1,1 @@
-# -nheritance
+# İnheritance
